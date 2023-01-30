@@ -1,0 +1,35 @@
+section{
+    margin-left: 400px;
+    margin-right: 470px;
+}
+.cl1{
+    color: lightgrey;
+}
+.cl2{
+    color: cyan;
+}
+
+p{
+    margin-left: 400px;
+    margin-right: 460px;
+}
+.evidenziato{
+    background-color: yellow;
+}
+.lista{
+    margin-left: 380px;
+    margin-right: 480px;
+}
+table{
+    margin-left: 400px;
+    margin-right: 450px;  
+}
+.ftr{
+    background-color:deepskyblue;  
+}
+td{
+    background-color:lightskyblue;
+}
+.wht{
+    background-color: white;
+}
