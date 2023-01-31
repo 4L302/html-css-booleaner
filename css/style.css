@@ -1,9 +1,21 @@
+header{
+    background: #4ea0ff url('./img/pattern.png');
+    height: 120px;
+    background-size: 23%;
+    background-position: top;
+    margin-left: 400px;
+    margin-right: 470px;
+}
+header img{
+    width: 300px;
+    padding-top: 40px;
+}
 section{
     margin-left: 400px;
     margin-right: 470px;
 }
 .cl1{
-    color: lightgrey;
+    color: #868686;
 }
 .cl2{
     color: cyan;
@@ -21,15 +33,28 @@ p{
     margin-right: 480px;
 }
 table{
-    margin-left: 400px;
-    margin-right: 450px;  
+    margin-left: 400px; 
+    margin-right: 470px;
+    table-layout: fixed;
+    text-align: left;
+    border-spacing: 0;
 }
 .ftr{
-    background-color:deepskyblue;  
+    background-color:deepskyblue;
+    color: white;
+    text-align: center;  
 }
 td{
     background-color:lightskyblue;
 }
 .wht{
     background-color: white;
+}
+h4{
+    color: #868686;
+
+}
+footer{
+    margin-left: 400px;
+    margin-right: ;
 }
